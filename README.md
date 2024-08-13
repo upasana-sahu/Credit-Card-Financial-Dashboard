@@ -7,7 +7,7 @@ To develop an interactive dashboard to analyze credit card transaction and custo
 The dataset includes CSV files of transaction data and customer data.
 
 ### Tools Used
-- SQL for creating table and importing data from CSV
+- SQL for creating table and importing data from CSV files
 - Power BI for creating measures, for analysis and visualization
 
 ### Key Insights
