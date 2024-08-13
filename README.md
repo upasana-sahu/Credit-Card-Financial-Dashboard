@@ -7,7 +7,7 @@ To develop an interactive dashboard to analyze credit card transaction and custo
 The dataset includes CSV files of transaction data and customer data.
 
 ### Tools Used
-- SQL for creating table and importing data from CSV files
+- SQL for creating tables and importing data from CSV files
 - Power BI for creating measures, for analysis and visualization
 
 ### Key Insights
@@ -18,6 +18,6 @@ The dataset includes CSV files of transaction data and customer data.
 - Blue and Silver credit cards are the most used, making up 91% of transactions.
 - In customers 45% belong to age group 40-50.
 - Overall Activation Rate is 57.5%.
-- Overall Delinquency Rate: 6.07%.
+- Overall Delinquency Rate is 6.07%.
 
 Guided by-Rishabh Mishra [YouTube Video Link](https://www.youtube.com/watch?v=8XoDVwWdaqI&t=6870s)
