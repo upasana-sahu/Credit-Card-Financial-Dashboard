@@ -1,4 +1,7 @@
 # Credit-Card-Financial-Dashboard
 
 ## Objective
-Developed an interactive dashboard to understand credit card weekly trend
+To develop an interactive dashboard to analyze credit card transaction and customer data, providing real-time insights into key performance metrics and trends to stakeholders.
+
+### About Dataset
+The dataset includes CSV files of transaction data and customer data.
